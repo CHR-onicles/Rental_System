@@ -20,6 +20,7 @@ int cNumberOfTenants() {
 	}
 	in_file.close();
 	return (numOfLines / 4);
+	//need to refactor and use pointer location for this
 }
 
 //displaying number of tenants
@@ -55,8 +56,8 @@ void displayTenants() {
 	//displaying header
 	std::cout << "\n\n";
 	std::cout << std::setw(TITLE_LENGTH) << std::setfill(' ') << std::left << title << std::endl;
-	std::cout << std::setw(20) << std::left << "FIRST NAME:"
-			  << std::setw(20) << std::left << "LAST NAME:"
+	std::cout << std::setw(20) << std::left  << "FIRST NAME:"
+			  << std::setw(20) << std::left  << "LAST NAME:"
 			  << std::setw(10) << std::right << "AGE:"
 			  << std::setw(15) << std::right << "CONTACT:" << std::endl;
 	std::cout << std::setw(TITLE_LENGTH) << std::setfill('-') << "" << std::endl;
@@ -88,6 +89,9 @@ void displayTenants() {
 		}
 		//not necessary but i added this so i can see when the limit for number of tenants is reached (which is 10)
 		//also I'm not sure this is a very efficient way to do this but it works soo...
+
+		//*refactor using pointer location for this*
+		//structs design will also make it easier...mini-database project for reference
 		if (lineNumber == 40) {
 			std::cout << std::setw(TITLE_LENGTH) << std::setfill('-') << "" << std::endl;
 			std::cout << std::setfill(' ');

@@ -110,7 +110,7 @@ void menu() {
 		std::cout << "3 - Check number of Tenants" << std::endl;
 		std::cout << "4 - Display Tenants" << std::endl;
 		std::cout << "Esc - Exit " << std::endl;
-		std::cout << "=======================================" << std::endl;
+		std::cout << "========================================" << std::endl;
 
 		std::cout << "Please select an option: ";
 		choice = _getch();	//instantly displays event rather than having to press Enter

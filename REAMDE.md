@@ -5,6 +5,8 @@ so dont expect too much and I'm still working on  the business logic and stuff(w
 Im just trying to make sure the whole renting system works first(adding tenants, displaying them, removing...that kinda thing)
 BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use structs rather to save details of tenants..idrk...
 
+*Passwords in Gen_Utilities.h, under login() function. line:19
+
 
 TO-DO TASKS: (In Order Of Priority)
 -Implement "Option 2: Check for Available rooms"
@@ -19,4 +21,6 @@ TO-DO TASKS: (In Order Of Priority)
 ==> COMPLETED TO-DO TASKS:
 -Prevent adding tenants after limit of 10 is reached
 
-*CONFIRMED: I'm redoing this project using structs and design similar to my mini-database project from earlier*
+*CONFIRMED:*
+I'm redoing this project using structs and design similar to my mini-database project from earlier
+but I'll keep this project for future reference
