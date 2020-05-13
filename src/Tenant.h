@@ -15,7 +15,7 @@ protected:
 	short age;
 	std::string pnumber;
 	//int ID_num;
-	//string room_number;
+	//string room_number;	//implement these later when there's a more stable version of the program
 public:
 	Tenant();
 	Tenant(std::string fname ,std::string lname, short age, std::string pnumber);
