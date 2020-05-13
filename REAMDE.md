@@ -17,6 +17,7 @@ TO-DO TASKS: (In Order Of Priority)
 (or not cuz i was thinking if a person had the money he/she is entitled to as many rooms as he/she can afford)
 -Add validation of phone number in registration
 -Allow user to edit changes of details before registration is complete
+-Redo the whole roomPrices logic smh...what is there is just a mess :facepalm:
 
 ==> COMPLETED TO-DO TASKS:
 -Prevent adding tenants after limit of 10 is reached
