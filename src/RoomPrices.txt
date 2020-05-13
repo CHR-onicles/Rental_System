@@ -1,0 +1,13 @@
+     === ROOM PRICES ===
+ROOMS:                 PRICES:
+------------------------------
+Room1                   150.55
+Room2                   150.55
+Room3                   150.55
+Room4                   150.55
+Room5                   150.55
+Room6                   150.55
+Room7                   150.55
+Room8                   150.55
+Room9                   150.55
+Room10                  150.55
