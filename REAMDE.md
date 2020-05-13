@@ -18,3 +18,5 @@ TO-DO TASKS: (In Order Of Priority)
 
 ==> COMPLETED TO-DO TASKS:
 -Prevent adding tenants after limit of 10 is reached
+
+*CONFIRMED: I'm redoing this project using structs and design similar to my mini-database project from earlier*
