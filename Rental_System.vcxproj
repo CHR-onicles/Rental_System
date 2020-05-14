@@ -162,9 +162,6 @@
     <Text Include="src\RoomPrices.txt" />
     <Text Include="src\tenants.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="REAMDE.md" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

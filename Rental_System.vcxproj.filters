@@ -46,7 +46,4 @@
     <Text Include="src\RoomPrices.txt" />
     <Text Include="src\tenants.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="REAMDE.md" />
-  </ItemGroup>
 </Project>
