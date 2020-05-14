@@ -9,15 +9,15 @@ BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use 
 
 
 **TO-DO TASKS: (In Order Of Priority)**
--Implement "Option 2: Check for Available rooms"
--Option to remove tenant
--Option to seek for a particular tenant
--Add Business Logic
--Prevent same tenant from registering multiple times
-(or not cuz i was thinking if a person had the money he/she is entitled to as many rooms as he/she can afford)
--Add validation of phone number in registration
--Allow user to edit changes of details before registration is complete
--Redo the whole roomPrices logic smh...what is there is just a mess :facepalm:
+- Implement "Option 2: Check for Available rooms"
+- Option to remove tenant
+- Option to seek for a particular tenant
+- Add Business Logic
+- Prevent same tenant from registering multiple times
+  (or not cuz i was thinking if a person had the money he/she is entitled to as many rooms as he/she can afford)
+- Add validation of phone number in registration
+- Allow user to edit changes of details before registration is complete
+- Redo the whole roomPrices logic smh...what is there is just a mess :facepalm:
 
 ==> **COMPLETED TO-DO TASKS:**
 ~~Prevent adding tenants after limit of 10 is reached~~
