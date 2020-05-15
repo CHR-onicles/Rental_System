@@ -1,4 +1,4 @@
-#RENTAL_SYSTEM
+# RENTAL_SYSTEM
 
 Code for a menu-driven rental system for a hotel...(its mostly just to practise stuff I've learnt and sharpen skills)
 so dont expect too much and I'm still working on  the business logic and stuff(which is a major part)
