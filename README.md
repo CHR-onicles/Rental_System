@@ -20,8 +20,8 @@ BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use 
 - Redo the whole roomPrices logic smh...what is there is just a mess :facepalm:
 
 ==> **COMPLETED TO-DO TASKS:**
-~~Prevent adding tenants after limit of 10 is reached~~
+- ~~Prevent adding tenants after limit of 10 is reached~~
 
 ***CONFIRMED:***
-I'm redoing this project using structs and design similar to my mini-database project from earlier
-but I'll keep this project for future reference
+- I'm redoing this project using structs and design similar to my mini-database project from earlier
+  but I'll keep this project for future reference
