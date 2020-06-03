@@ -8,7 +8,7 @@ BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use 
 *Passwords in Gen_Utilities.h, under login() function. line:19*
 
 
-**TO-DO TASKS: (In Order Of Priority)**
+### TO-DO TASKS: (In Order Of Priority)
 - Implement "Option 2: Check for Available rooms"
 - Option to remove tenant
 - Option to seek for a particular tenant
@@ -19,7 +19,7 @@ BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use 
 - Allow user to edit changes of details before registration is complete
 - Redo the whole roomPrices logic smh...what is there is just a mess :facepalm:
 
-==> **COMPLETED TO-DO TASKS:**
+### **COMPLETED TO-DO TASKS:**
 - ~~Prevent adding tenants after limit of 10 is reached~~
 
 ***CONFIRMED:***
