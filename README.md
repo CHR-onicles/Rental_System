@@ -1,6 +1,6 @@
 # RENTAL_SYSTEM
 
-Code for a menu-driven rental system for a hotel...(its mostly just to practise stuff I've learnt and sharpen skills)
+Code for a menu-driven rental system for a hotel....(its mostly just to practise stuff I've learnt and sharpen skills)
 so don't expect too much and I'm still working on  the business logic and stuff(which is a major part)
 Im just trying to make sure the whole renting system works first(adding tenants, displaying them, removing...that kinda thing)
 BUT I think there's a design flaw tho...I'm not really sure...maybe shoulda use structs rather to save details of tenants..idrk...
